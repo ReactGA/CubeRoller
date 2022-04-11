@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 09b46d9c6b2b0e0418042c0d2d667402
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hyper Viper Expanded Semi-Ital
+  fontNames:
+  - Hyper Viper Expanded Semi-Ital
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
